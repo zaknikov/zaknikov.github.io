@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkorbital"]=self["webpackChunkorbital"]||[]).push([[9609],{279609:function(a,t,e){e.r(t),e.d(t,{default:function(){return l}});var n=e(373396),r=e(44870);const s={class:"pages h-100"},c=["src"];var u={__name:"PanoramaPage",setup(a){const t="http://localhost:3333/",e="pano-360",u=(0,r.iH)(t+e);return(a,t)=>((0,n.wg)(),(0,n.iD)("div",s,[(0,n._)("iframe",{src:u.value,width:"100%",height:"100%"},null,8,c)]))}};const i=u;var l=i}}]);
+//# sourceMappingURL=9609.c4b7c039.js.map
