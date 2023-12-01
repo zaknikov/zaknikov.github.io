@@ -1,0 +1,166 @@
+{
+    "listOrbitals": {
+        "uniqueId": "nom",
+        "HSHoverInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            }
+        },
+        "titleInfo": {
+            "normal": "appt",
+            "small": "bloc"
+        },
+        "AllInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Etage": {
+                "key": "etage",
+                "suffixTxt": ""
+            },
+            "Terrasse": {
+                "key": "terrasse",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        }
+    },
+    "villa1": {
+        "uniqueId": "nom",
+        "HSHoverInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        },
+        "titleInfo": {
+            "normal": "appt",
+            "small": "bloc"
+        },
+        "AllInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Etage": {
+                "key": "etage",
+                "suffixTxt": ""
+            },
+            "Terrasse": {
+                "key": "terrasse",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        }
+    },
+    "villa2": {
+        "uniqueId": "nom",
+        "HSHoverInfo": {
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        },
+        "titleInfo": {
+            "normal": "appt",
+            "small": "bloc"
+        },
+        "AllInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Etage": {
+                "key": "etage",
+                "suffixTxt": ""
+            },
+            "Terrasse": {
+                "key": "terrasse",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        }
+    },
+    "villa3": {
+        "uniqueId": "nom",
+        "HSHoverInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        },
+        "titleInfo": {
+            "normal": "appt",
+            "small": "bloc"
+        },
+        "AllInfo": {
+            "Surface": {
+                "key": "surface",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Type": {
+                "key": "type",
+                "suffixTxt": ""
+            },
+            "Etage": {
+                "key": "etage",
+                "suffixTxt": ""
+            },
+            "Terrasse": {
+                "key": "terrasse",
+                "suffixTxt": "M<sup>2</sup>"
+            },
+            "Code": {
+                "key": "code_ref",
+                "suffixTxt": ""
+            }
+        }
+    }
+}

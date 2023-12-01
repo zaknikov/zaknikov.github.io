@@ -1,0 +1,88 @@
+{
+    "params": {
+        "animationsCount": 6,
+        "framesCount": 71,
+        "timeLineSpeed": 300,
+        "autoplay": false,
+        "frameStart": 0,
+        "animStart": 7,
+        "northAngle": -100,
+        "maxWidth": 1440,
+        "maxHeight": 1080,
+        "imagesFolder": "assets/tiles/villa-3/",
+        "preloadedFolder": "stage-%row/resized/0%row_%col.jpg",
+        "bg_color": "#ffffff",
+        "mobileSize": 512
+    },
+    "controls": {
+        "drag": {
+            "sensitivity": 0.3,
+            "threshold": 10,
+            "throwSens": 10,
+            "maxVelocity": 20
+        },
+        "zoom": {
+            "scaleFactor": 0.01,
+            "minScale": 0.2,
+            "maxScale": 1,
+            "scaleMargins": 0,
+            "initScale": 0.4,
+            "zoomInterval": 16.66
+        }
+    },
+    "tiles": {
+        "preloadSize": 512,
+        "maxTilesCache": 71,
+        "cropSize": 512,
+        "tilesFolder": "stage-%row/%bp/0%row_%col/",
+        "breakpoints_folder": {
+            "medium": "medium-cropped",
+            "large": "big-cropped"
+        },
+        "breakpoints_sizes": {
+            "large": 1440,
+            "medium": 900,
+            "preloaded": 512
+        }
+    },
+    "hotspots": {
+        "useHotspots": false,
+        "color_HS": {
+            "T2": "#6ebbff",
+            "T3": "#c6a600"
+        },
+        "color_types": {
+            "T2": "#6ebbff",
+            "T3": "#c6a600"
+        },
+        "default_filters": {
+            "types": [
+                "T2",
+                "T3"
+            ],
+            "stages": [
+                0,
+                1
+            ],
+            "status": [
+                "Disponible"
+            ]
+        },
+        "surface": {
+            "min": 49,
+            "max": 67
+        },
+        "status": [
+            {
+                "name": "Dispo",
+                "value": "Disponible",
+                "css_type": "bg-success"
+            },
+            {
+                "name": "Vendu",
+                "value": "Indisponible",
+                "css_type": "bg-danger"
+            }
+        ]
+    }
+}

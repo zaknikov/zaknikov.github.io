@@ -1,0 +1,88 @@
+{
+    "params": {
+        "animationsCount": 6,
+        "framesCount": 50,
+        "timeLineSpeed": 300,
+        "autoplay": false,
+        "frameStart": 0,
+        "animStart": 6,
+        "northAngle": -100,
+        "maxWidth": 1920,
+        "maxHeight": 1080,
+        "imagesFolder": "assets/tiles/",
+        "preloadedFolder": "s-%row/resized/0%row_%col.jpg",
+        "bg_color": "#f3f3f3",
+        "mobileSize": 512
+    },
+    "controls": {
+        "drag": {
+            "sensitivity": 0.08,
+            "threshold": 10,
+            "throwSens": 10,
+            "maxVelocity": 25
+        },
+        "zoom": {
+            "scaleFactor": 0.01,
+            "minScale": 0.2,
+            "maxScale": 1,
+            "scaleMargins": 0,
+            "initScale": 1,
+            "zoomInterval": 16.66
+        }
+    },
+    "tiles": {
+        "preloadSize": 512,
+        "maxTilesCache": 51,
+        "cropSize": 512,
+        "tilesFolder": "s-%row/%bp/0%row_%col/",
+        "breakpoints_folder": {
+            "medium": "medium-cropped",
+            "large": "large-cropped"
+        },
+        "breakpoints_sizes": {
+            "large": 1920,
+            "medium": 1100,
+            "preloaded": 512
+        }
+    },
+    "hotspots": {
+        "useHotspots": true,
+        "color_HS": {
+            "T2": "#cc0000",
+            "T3": "#c6a600"
+        },
+        "color_types": {
+            "T2": "#cc0000",
+            "T3": "#c6a600"
+        },
+        "default_filters": {
+            "types": [
+                "T2",
+                "T3"
+            ],
+            "stages": [
+                0,
+                1
+            ],
+            "status": [
+                "Disponible"
+            ]
+        },
+        "surface": {
+            "min": 49,
+            "max": 67
+        },
+        "status": [
+            {
+                "name": "Dispo",
+                "value": "Disponible",
+                "css_type": "bg-success"
+            },
+            {
+                "name": "Vendu",
+                "value": "Indisponible",
+                "css_type": "bg-danger"
+            }
+        ]
+    }
+}

@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkorbital"]=self["webpackChunkorbital"]||[]).push([[9609],{279609:function(a,t,e){e.r(t),e.d(t,{default:function(){return l}});var r=e(373396),n=e(44870);const s={class:"pages h-100"},c=["src"];var i={__name:"PanoramaPage",setup(a){const t="https://orbital-360.vercel.app/",e="pano-360",i=(0,n.iH)(t+e);return(a,t)=>((0,r.wg)(),(0,r.iD)("div",s,[(0,r._)("iframe",{src:i.value,width:"100%",height:"100%"},null,8,c)]))}};const u=i;var l=u}}]);
-//# sourceMappingURL=9609.2015e643.js.map
