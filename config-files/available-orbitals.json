@@ -2,8 +2,8 @@
     "listOrbitals": {
         "id": "listOrbitals",
         "title": "Plan de masse",
-        "HSConfigFile": "/HS-villa-1.json",
-        "orbitalConfigFile": "appData3.json",
+        "HSConfigFile": "/HS-masse-plan.json",
+        "orbitalConfigFile": "masse-plan.json",
         "regionConfigFile": "mass-plan",
         "isOrbitalSelection": true
     },
@@ -17,7 +17,7 @@
     },
     "villa2": {
         "id": "villa2",
-        "title": "Villa 2",
+        "title": "Villa 3",
         "HSConfigFile": "/HS-villa-1.json",
         "orbitalConfigFile": "appData-villa-2.json",
         "regionConfigFile": "villa-2",
@@ -25,9 +25,9 @@
     },
     "villa3": {
         "id": "villa3",
-        "title": "Villa 3",
+        "title": "Villa 8",
         "HSConfigFile": "/HS-villa-1.json",
-        "orbitalConfigFile": "appData-villa-2.json",
+        "orbitalConfigFile": "appData-villa-3.json",
         "regionConfigFile": "villa-3",
         "isOrbitalSelection": false
     }

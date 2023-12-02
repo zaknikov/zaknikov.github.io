@@ -1,24 +1,24 @@
 {
     "params": {
-        "animationsCount": 6,
-        "framesCount": 71,
+        "animationsCount": 1,
+        "framesCount": 50,
         "timeLineSpeed": 300,
         "autoplay": false,
         "frameStart": 0,
-        "animStart": 7,
+        "animStart": 1,
         "northAngle": -100,
-        "maxWidth": 1440,
+        "maxWidth": 1920,
         "maxHeight": 1080,
         "imagesFolder": "assets/tiles/villa-3/",
-        "preloadedFolder": "stage-%row/resized/0%row_%col.jpg",
+        "preloadedFolder": "stage-%row/resized/tile_%col.jpg",
         "bg_color": "#ffffff",
         "mobileSize": 512
     },
     "controls": {
         "drag": {
-            "sensitivity": 0.3,
+            "sensitivity": 0.4,
             "threshold": 10,
-            "throwSens": 10,
+            "throwSens": 8,
             "maxVelocity": 20
         },
         "zoom": {
@@ -26,33 +26,33 @@
             "minScale": 0.2,
             "maxScale": 1,
             "scaleMargins": 0,
-            "initScale": 0.4,
+            "initScale": 1,
             "zoomInterval": 16.66
         }
     },
     "tiles": {
         "preloadSize": 512,
-        "maxTilesCache": 71,
+        "maxTilesCache": 50,
         "cropSize": 512,
-        "tilesFolder": "stage-%row/%bp/0%row_%col/",
+        "tilesFolder": "stage-%row/%bp/tile_%col/",
         "breakpoints_folder": {
             "medium": "medium-cropped",
-            "large": "big-cropped"
+            "large": "large-cropped"
         },
         "breakpoints_sizes": {
-            "large": 1440,
-            "medium": 900,
+            "large": 1920,
+            "medium": 1100,
             "preloaded": 512
         }
     },
     "hotspots": {
         "useHotspots": false,
         "color_HS": {
-            "T2": "#6ebbff",
+            "T2": "#00ff00",
             "T3": "#c6a600"
         },
         "color_types": {
-            "T2": "#6ebbff",
+            "T2": "#00ff00",
             "T3": "#c6a600"
         },
         "default_filters": {
@@ -82,6 +82,11 @@
                 "name": "Vendu",
                 "value": "Indisponible",
                 "css_type": "bg-danger"
+            },
+            {
+                "name": "Réservé",
+                "value": "Réservé",
+                "css_type": "bg-warning"
             }
         ]
     }

@@ -10,7 +10,7 @@
         "maxWidth": 1920,
         "maxHeight": 1080,
         "imagesFolder": "assets/tiles/villa-1/",
-        "preloadedFolder": "stage-%row/resized/0%row_%col.jpg",
+        "preloadedFolder": "stage-%row/resized/tile_%col.jpg",
         "bg_color": "#ffffff",
         "mobileSize": 512
     },
@@ -34,7 +34,7 @@
         "preloadSize": 512,
         "maxTilesCache": 50,
         "cropSize": 512,
-        "tilesFolder": "stage-%row/%bp/0%row_%col/",
+        "tilesFolder": "stage-%row/%bp/tile_%col/",
         "breakpoints_folder": {
             "medium": "medium-cropped",
             "large": "large-cropped"
