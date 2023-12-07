@@ -69,8 +69,8 @@
             ]
         },
         "surface": {
-            "min": 49,
-            "max": 67
+            "min": 30,
+            "max": 200
         },
         "status": [
             {
