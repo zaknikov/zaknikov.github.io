@@ -48,29 +48,14 @@
     "hotspots": {
         "useHotspots": false,
         "color_HS": {
-            "T2": "#00ff00",
             "T3": "#c6a600"
         },
         "color_types": {
-            "T2": "#00ff00",
             "T3": "#c6a600"
         },
-        "default_filters": {
-            "types": [
-                "T2",
-                "T3"
-            ],
-            "stages": [
-                0,
-                1
-            ],
-            "status": [
-                "Disponible"
-            ]
-        },
         "surface": {
-            "min": 49,
-            "max": 67
+            "min": 30,
+            "max": 200
         },
         "status": [
             {
@@ -88,6 +73,17 @@
                 "value": "Réservé",
                 "css_type": "bg-warning"
             }
-        ]
+        ],
+        "default_filters": {
+            "types": [
+                "T3"
+            ],
+            "stages": [
+                0
+            ],
+            "status": [
+                "Disponible"
+            ]
+        }
     }
 }
