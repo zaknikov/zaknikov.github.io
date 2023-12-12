@@ -6,37 +6,16 @@
                 "key": "surface",
                 "suffixTxt": "M<sup>2</sup>"
             },
-            "Type": {
-                "key": "type",
-                "suffixTxt": ""
+            "Surface Batis": {
+                "key": "surface_batis",
+                "suffixTxt": "M<sup>2</sup>"
             }
         },
         "titleInfo": {
             "normal": "num_villa",
             "small": "num_villa"
         },
-        "AllInfo": {
-            "Surface": {
-                "key": "surface",
-                "suffixTxt": "M<sup>2</sup>"
-            },
-            "Type": {
-                "key": "type",
-                "suffixTxt": ""
-            },
-            "Etage": {
-                "key": "etage",
-                "suffixTxt": ""
-            },
-            "Terrasse": {
-                "key": "terrasse",
-                "suffixTxt": "M<sup>2</sup>"
-            },
-            "Code": {
-                "key": "code_ref",
-                "suffixTxt": ""
-            }
-        }
+        "AllInfo": {}
     },
     "villa1": {
         "uniqueId": "nom",

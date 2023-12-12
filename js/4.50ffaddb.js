@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkorbital"]=self["webpackChunkorbital"]||[]).push([[4],{15004:function(t,a,e){e.r(a),e.d(a,{default:function(){return c}});var l=e(73396);const r={class:"pages"},n=["src"],s="/VR-villa-1/index.html";var i={__name:"TourVillaTwo",setup(t){const a=(0,l.Fl)((()=>`${s}`));return(t,e)=>((0,l.wg)(),(0,l.iD)("div",r,[(0,l._)("iframe",{src:a.value,width:"100%",height:"100%"},null,8,n)]))}};const u=i;var c=u}}]);
+//# sourceMappingURL=4.50ffaddb.js.map

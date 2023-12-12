@@ -9,7 +9,7 @@
         "northAngle": -100,
         "maxWidth": 1920,
         "maxHeight": 1080,
-        "imagesFolder": "assets/tiles/masse-plan/",
+        "imagesFolder": "assets/tiles/masse-plan-2/",
         "preloadedFolder": "stage-%row/resized/tile-%col.jpg",
         "bg_color": "#ffffff",
         "mobileSize": 512
@@ -54,8 +54,8 @@
             "T3": "#c6a600"
         },
         "surface": {
-            "min": 30,
-            "max": 200
+            "min": 300,
+            "max": 1200
         },
         "status": [
             {
